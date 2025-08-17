@@ -1,7 +1,7 @@
 {
   "name": "SpotOps",
   "short_name": "SpotOps",
-  "start_url": ".",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#0b1020",
   "theme_color": "#0f172a",
